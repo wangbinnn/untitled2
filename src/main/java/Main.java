@@ -4,8 +4,8 @@
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("comit 11");
-        System.out.println("comit 22");
-        System.out.println("comit 33");
+        System.out.println("commit 11");
+        System.out.println("commit 22");
+        System.out.println("commit 33");
     }
 }
