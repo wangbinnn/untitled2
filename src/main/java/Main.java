@@ -9,5 +9,6 @@ public class Main {
         System.out.println("commit 33");
         System.out.println("commit 44");
         System.out.println("commit 55");
+        System.out.println("commit 66");
     }
 }
